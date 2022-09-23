@@ -1,2 +1,3 @@
 #!/bin/bash
-chomd -R +X
+chmod -R +X
+
